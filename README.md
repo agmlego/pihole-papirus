@@ -5,7 +5,7 @@ I did not care for the ultra-simple options currently available, so for my Pi 3B
 ## Requires
 
 - [PiHole-api](https://pypi.org/project/PiHole-api/)
-- [PaPiRus](https://github.com/PiSupply/PaPiRus)
+- [PaPiRus](https://github.com/PiSupply/PaPiRus) (currently cannot be installed with pip)
 
 ## `secrets.ini`
 
